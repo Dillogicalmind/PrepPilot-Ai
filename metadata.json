@@ -1,0 +1,5 @@
+{
+  "name": "PrepPilot AI",
+  "description": "AI-powered exam preparation tool that generates custom mock tests using Gemini.",
+  "requestFramePermissions": []
+}
